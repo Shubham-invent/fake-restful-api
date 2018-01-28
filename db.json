@@ -1,11 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {{
     "campaigns": [{
             "name": "DELAY",
             "id": "b7611fec-86b3-48a4-8005-f0d9512990c6",
@@ -616,10 +609,4 @@
             ]
         }
     ]
-}
-      "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
-    }
-  ]
 }
